@@ -1,6 +1,6 @@
-owner=349906494822547471
-prefix= Hu
-game= Type Hu help
+owner=702376681394143302
+prefix= A
+game= Type A help
 stayinchannel=true
 songinstatus=true 
-token=NTQ2NjI0NjQ5NzM2MjI0Nzc4.D0q7ZA.HFUvw24rhvm_esliSgYxLB1e-mo
+token=OTA1NjEzNzUxNjAzMDQwMzI3.YYMohw.H5fIa7hIl2Ar7FDLLG33AdsYbxg
